@@ -1,21 +1,21 @@
 # Apuntes de Markdown 
-#### Actualizado // 5 de agosto de 2022
+#### Actualizado // 7 de agosto de 2022
 ---
 ## Titulos
 
-# Título 1
-## Título 2
-### Título 3
-#### Título 4
-##### Título 5
-###### Título 6
+# Título <h1>
+## Título <h2>
+### Título <h3>
+#### Título <h4>
+##### Título <h5>
+###### Título <h6>
 ```markdown
-# Título 1
-## Título 2
-### Título 3
-#### Título 4
-##### Título 5
-###### Título 6
+# Título <h1>
+## Título <h2>
+### Título <h3>
+#### Título <h4>
+##### Título <h5>
+###### Título <h6>
 ```
 ---
 ## Énfasis
@@ -92,19 +92,19 @@ _italic_
 _ _ _
 ```
 ---
-## Sentencias de espace \
-\ backslash
-` backtick
-* asterisk
-_ underscore
-{} curly braces
-[] square brackets
-() parentheses
-# hash mark 
-+ plus sign
-- minus sign (hyphen)
-. dot
-! exclamation mark
+## Sentencias de espace 
+\\ backslash
+\` backtick
+\* asterisk
+\_ underscore
+\{ \} curly braces
+\[ \] square brackets
+\( \) parentheses
+\# hash mark 
+\+ plus sign
+\- minus sign (hyphen)
+\. dot
+\! exclamation mark
 ---
 
 # Github Markdown 
@@ -139,12 +139,14 @@ La división entre la fila de encabezado y las filas del cuerpo de la tabla se r
 ---
 ## Lista de tareas
 * [x] Uno
-- [ ] Dos
+* [ ] Dos
 - [ ] Tres
+- [ ] Cuatro 
 ```markdown
 * [x] Uno
-- [ ] Dos
+* [ ] Dos
 - [ ] Tres
+- [ ] Cuatro
 ```
 ---
 ## Website
@@ -175,6 +177,10 @@ Para ver la lista de emojis disponibles visitar www.emoji-cheat-sheet.com
 
 Más info...
 
-[Markdown tutorial](http://www.markdowntutorial.com/)
-[Cheatsheet Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
-[Emojis](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+ [Markdown tutorial](http://www.markdowntutorial.com/)
+
+ [Cheatsheet Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
+ [Emojis](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+ 
+ 
