@@ -3,19 +3,19 @@
 ---
 ## Titulos
 
-# Título <h1>
-## Título <h2>
-### Título <h3>
-#### Título <h4>
-##### Título <h5>
-###### Título <h6>
+# Título 1
+## Título 2
+### Título 3
+#### Título 4
+##### Título 5
+###### Título 6
 ```markdown
-# Título <h1>
-## Título <h2>
-### Título <h3>
-#### Título <h4>
-##### Título <h5>
-###### Título <h6>
+# Título 1
+## Título 2
+### Título 3
+#### Título 4
+##### Título 5
+###### Título 6
 ```
 ---
 ## Énfasis
@@ -94,17 +94,29 @@ _ _ _
 ---
 ## Sentencias de espace 
 \\ backslash
+
 \` backtick
+
 \* asterisk
+
 \_ underscore
+
 \{ \} curly braces
+
 \[ \] square brackets
+
 \( \) parentheses
+
 \# hash mark 
+
 \+ plus sign
+
 \- minus sign (hyphen)
+
 \. dot
+
 \! exclamation mark
+
 ---
 
 # Github Markdown 
@@ -127,7 +139,9 @@ int main(){
 ```
 ---
 ## Tablas
-La división entre la fila de encabezado y las filas del cuerpo de la tabla se realiza con - (hyphens), para separar cada columna se emplea | (pipe).
+Separar la fila de encabezado y las filas del cuerpo con - (hyphens).
+Separar cada columna con | (pipe).
+
 | header 1 | header 2 | header 3 |
 |----------|----------|----------|
 | data 1   | data 2   | data 3   |
@@ -169,6 +183,7 @@ La división entre la fila de encabezado y las filas del cuerpo de la tabla se r
 ---
 ## Emojis
 Para ver la lista de emojis disponibles visitar www.emoji-cheat-sheet.com
+
 :+1: :rocket: :metal: :octocat:
 ```
 :+1: :rocket: :metal: :octocat:
