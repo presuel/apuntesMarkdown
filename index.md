@@ -92,9 +92,24 @@ _italic_
 _ _ _
 ```
 ---
+## Sentencias de espace \
+\ backslash
+` backtick
+* asterisk
+_ underscore
+{} curly braces
+[] square brackets
+() parentheses
+# hash mark 
++ plus sign
+- minus sign (hyphen)
+. dot
+! exclamation mark
+---
 
 # Github Markdown 
-## Bloque de Código Específico
+
+## Bloque de Código Específico (Fenced code blocks).
 ###### Java
 ```java
 class Clase {
@@ -112,6 +127,7 @@ int main(){
 ```
 ---
 ## Tablas
+La división entre la fila de encabezado y las filas del cuerpo de la tabla se realiza con - (hyphens), para separar cada columna se emplea | (pipe).
 | header 1 | header 2 | header 3 |
 |----------|----------|----------|
 | data 1   | data 2   | data 3   |
@@ -123,12 +139,12 @@ int main(){
 ---
 ## Lista de tareas
 * [x] Uno
-* [ ] Dos
-* [ ] Tres
+- [ ] Dos
+- [ ] Tres
 ```markdown
 * [x] Uno
-* [ ] Dos
-* [ ] Tres
+- [ ] Dos
+- [ ] Tres
 ```
 ---
 ## Website
@@ -149,3 +165,16 @@ int main(){
 * [ ] Observar el mensaje "Your site is ready to be published"
 * [x] Esperar o actualizar para ver el mensaje "Your site is published"
 ---
+## Emojis
+Para ver la lista de emojis disponibles visitar www.emoji-cheat-sheet.com
+:+1: :rocket: :metal: :octocat:
+```
+:+1: :rocket: :metal: :octocat:
+```
+---
+
+Más info...
+
+[Markdown tutorial](http://www.markdowntutorial.com/)
+[Cheatsheet Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+[Emojis](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
